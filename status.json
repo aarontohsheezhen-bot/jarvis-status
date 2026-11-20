@@ -1,21 +1,21 @@
 {
  "usage": {
-  "h5": 61,
-  "week": 74,
-  "fable": 85,
-  "h5_reset": "10:20",
+  "h5": 6,
+  "week": 75,
+  "fable": 87,
+  "h5_reset": "22:00",
   "week_reset": "今晚 23:00"
  },
  "agents": [
   {
    "name": "Mike",
-   "state": "blocked",
+   "state": "idle",
    "note": "等你装桌面小组件"
   },
   {
    "name": "金豆腐",
-   "state": "idle",
-   "note": "Anthropic 已发，10:45 读数字"
+   "state": "busy",
+   "note": "读 Anthropic 数字，接着做 Price Action 第 2 集"
   },
   {
    "name": "乐园建造家",
@@ -23,5 +23,5 @@
    "note": "做第 2 段：新设施"
   }
  ],
- "updated": "2026-11-20T09:53:06+08:00"
+ "updated": "2026-11-20T17:02:22+08:00"
 }
