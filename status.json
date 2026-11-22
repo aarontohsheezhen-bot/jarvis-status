@@ -9,13 +9,13 @@
  "agents": [
   {
    "name": "Mike",
-   "state": "busy",
-   "note": "做 LinkedIn 轮播图，华社梦等你看片"
+   "state": "blocked",
+   "note": "LinkedIn 轮播图和华社梦等你看"
   },
   {
    "name": "金豆腐",
    "state": "busy",
-   "note": "改华社梦 Shorts 封面"
+   "note": "改华社梦封面背景"
   },
   {
    "name": "乐园建造家",
@@ -23,5 +23,5 @@
    "note": "3D 样品做好，等你挑卡通还是写实"
   }
  ],
- "updated": "2026-11-22T19:53:01+08:00"
+ "updated": "2026-11-22T20:01:27+08:00"
 }
