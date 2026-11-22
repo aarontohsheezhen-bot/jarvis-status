@@ -9,13 +9,13 @@
  "agents": [
   {
    "name": "Mike",
-   "state": "busy",
-   "note": "盯华社梦排程，补 Price Action 每天的 Short"
+   "state": "idle",
+   "note": "华社梦上集排好，周二 15:00"
   },
   {
    "name": "金豆腐",
    "state": "busy",
-   "note": "排华社梦上集，再剪 Price Action Short"
+   "note": "改 Price Action Short 到早上 9 点，再剪 5 支"
   },
   {
    "name": "乐园建造家",
@@ -23,5 +23,5 @@
    "note": "3D 样品做好，等你挑卡通还是写实"
   }
  ],
- "updated": "2026-11-22T21:20:21+08:00"
+ "updated": "2026-11-22T21:36:26+08:00"
 }
